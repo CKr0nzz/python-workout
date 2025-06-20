@@ -19,7 +19,7 @@ Ce dépôt contient donc ma progression à travers les 52 exercices proposés da
 ## Structure du repo
 
 - `exercises/` : exercices classés par thème
-- `tests/` : tests simples pour certains exercices avec `pytest`
+- `tests/` : tests pour certains exercices
 
 
 ## Référence
@@ -35,4 +35,4 @@ Ce dépôt contient donc ma progression à travers les 52 exercices proposés da
 
 ## Philosophie
 
-Le code est comme un instrument: il faut apprendre à l’accorder, le pratiquer et savoir improviser. (et ne pas oublier de s'amuser!)
+Le code est comme un instrument: il faut apprendre à l’accorder, le pratiquer, savoir improviser et ne pas oublier de s'amuser!
